@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Improving problem solving skills and clean code practice**
 
-- 💬 Ask me about **Java basics,OOP concepts**
+- 💬 Ask me about **Java ,Python **
 
 - 📫 How to reach me **sadesnadulathmi2007@gmail.com**
 
